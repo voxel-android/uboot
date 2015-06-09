@@ -443,7 +443,7 @@
 
 //On board DDR capacity
 /*DDR capactiy support 512MB, 1GB, 1.5GB, 2GB, 3GB*/
-#define CONFIG_DDR_SIZE          1024 //MB. Legal value: 512, 1024, 1536, 2048, 3072
+#define CONFIG_DDR_SIZE          2048 //MB. Legal value: 512, 1024, 1536, 2048, 3072
 
 #ifdef CONFIG_ACS
 //#define CONFIG_DDR_CHANNEL_AUTO_DETECT	//ddr channel setting auto detect
